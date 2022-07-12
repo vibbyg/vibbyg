@@ -1,4 +1,4 @@
-### Hellooo people of the internet 👋
+### Hello hello 👋
 
 #### 💻 I'm Vibhor, a student studying Computer Science at the University of Waterloo.
 #### 🎈 I'm passionate about Mobile App Development, Fullstack Development, and UI/UX Design.
